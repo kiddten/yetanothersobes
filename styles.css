@@ -1,0 +1,14 @@
+/* Standard Quarto themes with small reading-comfort adjustments. */
+main.content { max-width: 76rem; }
+.quarto-title .description { max-width: 48rem; }
+.mermaid { overflow-x: auto; }
+.experiment {
+  padding: 1.25rem;
+  margin-block: 1.5rem;
+  border: 1px solid currentColor;
+  border-radius: .5rem;
+  background: color-mix(in srgb, currentColor 5%, transparent);
+}
+.experiment label { display: block; margin-bottom: .75rem; }
+.experiment input[type="range"] { width: 100%; }
+.experiment output { font-variant-numeric: tabular-nums; }

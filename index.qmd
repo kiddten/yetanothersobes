@@ -1,0 +1,16 @@
+---
+title: "Технические разборы"
+description: "От вопроса к пониманию: схемы, примеры кода и небольшие эксперименты."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description, categories]
+  sort-ui: false
+  filter-ui: true
+page-layout: full
+toc: false
+---
+
+
