@@ -1,5 +1,7 @@
 # Технические разборы
 
+[![Открыть сайт](https://img.shields.io/badge/Открыть_сайт-GitHub_Pages-222222?logo=github)](https://kiddten.github.io/yetanothersobes/)
+
 Сайт на официальном шаблоне Quarto Blog. Используется Quarto 1.10.18.
 Python, R и Node.js для текущих страниц не нужны.
 

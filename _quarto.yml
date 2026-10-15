@@ -11,6 +11,9 @@ website:
   description: "Технические разборы: объяснения, схемы и работающие примеры."
   title: "Технические разборы"
   search: true
+  repo-url: https://github.com/kiddten/yetanothersobes
+  repo-branch: main
+  repo-actions: [edit]
   navbar:
     left:
       - text: "Все разборы"
